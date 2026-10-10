@@ -1,2 +1,2 @@
 # singlepageApp
-my info
+my info name purnasahithi
